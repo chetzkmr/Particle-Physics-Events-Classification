@@ -5,7 +5,7 @@ Dataset link - https://drive.google.com/file/d/1yyVp-fekB4d3-M4t5UZ79yzY4xsA5K0x
 
 Colab notebook (code link) - https://colab.research.google.com/drive/1-e57XGhOM9lqp6B-qV-NGMdsTZJfMbnE?ouid=113673368400332857935&usp=drive_link
 
-Welcome to the Particle Physics Event Classification Project GitHub repository!
+## Welcome to the Particle Physics Event Classification Project GitHub repository!
 Overview:
 
 This repository hosts the code and documentation for a particle physics event classification project. The primary objective of this project is to classify particle physics events accurately using machine learning techniques. The dataset used in this project initially contained error data marked as -999, which required preprocessing before model training. Additionally, the target feature in the dataset was imbalanced, necessitating the application of techniques such as random undersampling to balance the classes.
