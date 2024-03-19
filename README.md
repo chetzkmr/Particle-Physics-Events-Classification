@@ -9,7 +9,8 @@ Project Structure:
 
     Data Preprocessing:
         The dataset was preprocessed to handle error data (-999) and address any missing values.
-        Imbalanced target feature was balanced using the random undersampling method to ensure the models were trained on balanced datasets.
+        Imbalanced target feature was balanced using the random undersampling method to ensure the 
+        models were trained on balanced datasets.
 
     Model Development:
         Various machine learning models were implemented, including:
@@ -22,7 +23,8 @@ Project Structure:
         Each model was fine-tuned and optimized to achieve the best possible performance.
 
     Handling Overfitting:
-        Techniques such as ridge regularization and adjusting the number of estimators were employed to mitigate overfitting and improve model generalization.
+        Techniques such as ridge regularization and adjusting the number of estimators were 
+        employed to mitigate overfitting and improve model generalization.
 
     Model Evaluation:
         Model performance was evaluated using classification reports, which provided insights into the precision, recall, and F1-score of each model.
@@ -39,14 +41,5 @@ To explore the project:
     Evaluate model performance using classification reports and cross-validation techniques.
     Feel free to modify the code, experiment with different parameters, or integrate additional models to further enhance the project.
 
-Contribution:
-
-Contributions to the project are welcome! If you have any ideas for improvements, feature requests, or bug fixes, please feel free to open an issue or submit a pull request. Your contributions will be greatly appreciated and will help improve the project for everyone.
-License:
-
-This project is licensed under the MIT License.
-Contact:
-
-For any inquiries or questions regarding the project, please feel free to contact [Your Name] at [Your Email Address].
 
 Thank you for visiting the Particle Physics Event Classification Project repository. Happy coding!
