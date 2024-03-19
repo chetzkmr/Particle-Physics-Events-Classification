@@ -3,6 +3,8 @@ Particle Physics Event Classification Project
 
 Dataset link - https://drive.google.com/file/d/1yyVp-fekB4d3-M4t5UZ79yzY4xsA5K0x/view?usp=drive_link
 
+Colab notebook (code link) - https://colab.research.google.com/drive/1-e57XGhOM9lqp6B-qV-NGMdsTZJfMbnE?ouid=113673368400332857935&usp=drive_link
+
 Welcome to the Particle Physics Event Classification Project GitHub repository!
 Overview:
 
