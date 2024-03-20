@@ -36,19 +36,29 @@ Project Structure:
 
 Key Features:
 
-    Data Preprocessing: The project includes robust data preprocessing steps to handle error data (-999) and address missing values in the dataset. This ensures the quality and reliability of the data used for model training.
+    Data Preprocessing: The project includes robust data preprocessing steps to handle error data (-999) and 
+    address missing values in the dataset. This ensures the quality and reliability of the data used for model training.
 
-    Imbalanced Data Handling: Techniques such as random undersampling are applied to balance the imbalanced target feature, ensuring that the machine learning models are trained on datasets with equal representation of classes. This helps prevent biases in model predictions.
+    Imbalanced Data Handling: Techniques such as random undersampling are applied to balance the imbalanced target feature, 
+    ensuring that the machine learning models are trained on datasets with equal representation of classes. This helps prevent biases in model predictions.
 
-    Model Diversity: Various machine learning models, including Logistic Regression, XGBoost, K-Nearest Neighbors (KNN), Naive Bayes, and Random Forest, are implemented in the project. This diversity allows for exploration of different modeling approaches and facilitates comparison of their performances.
+    Model Diversity: Various machine learning models, including Logistic Regression, XGBoost, K-Nearest Neighbors (KNN), Naive Bayes, 
+    and Random Forest, are implemented in the project. This diversity allows for exploration of different modeling approaches and facilitates
+    comparison of their performances.
 
-    Model Optimization: Each machine learning model is fine-tuned and optimized to achieve the best possible performance. Techniques such as adjusting hyperparameters and employing ensemble methods like stacking models are utilized to enhance model accuracy and robustness.
+    Model Optimization: Each machine learning model is fine-tuned and optimized to achieve the best possible performance. 
+    Techniques such as adjusting hyperparameters and employing ensemble methods like stacking models are utilized to enhance model accuracy and robustness.
 
-    Overfitting Mitigation: To prevent overfitting, techniques such as ridge regularization and adjusting the number of estimators are employed. These methods help improve model generalization and ensure reliable predictions on unseen data.
+    Overfitting Mitigation: To prevent overfitting, techniques such as ridge regularization and adjusting the number
+    of estimators are employed. These methods help improve model generalization and ensure reliable predictions on unseen data.
 
-    Model Evaluation: Model performance is rigorously evaluated using classification reports, providing insights into key metrics such as precision, recall, and F1-score for each model. Cross-validation techniques are also utilized to assess the models' robustness and accuracy across different subsets of the data.
+    Model Evaluation: Model performance is rigorously evaluated using classification reports, providing insights 
+    into key metrics such as precision, recall, and F1-score for each model. Cross-validation techniques are also 
+    utilized to assess the models' robustness and accuracy across different subsets of the data.
 
-    User-Friendly Usage: The project provides clear instructions for users to explore and experiment with different aspects of the analysis. Users can easily clone the repository, install necessary dependencies, run preprocessing scripts, experiment with different models, and evaluate model performance using provided scripts and techniques.
+    User-Friendly Usage: The project provides clear instructions for users to explore and experiment with different aspects 
+    of the analysis. Users can easily clone the repository, install necessary dependencies, run preprocessing scripts, 
+    experiment with different models, and evaluate model performance using provided scripts and techniques.
 
 These key features collectively make the particle physics event classification project a comprehensive and effective framework for accurate classification of particle physics events using machine learning techniques.
 
